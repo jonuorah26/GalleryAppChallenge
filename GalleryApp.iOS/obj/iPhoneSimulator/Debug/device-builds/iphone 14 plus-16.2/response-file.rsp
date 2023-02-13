@@ -2,20 +2,20 @@
 --sgen-conc
 /target-framework:Xamarin.iOS,Version=v1.0
 --http-message-handler=NSUrlSessionHandler
-"--cache=/Users/mac/Projects/GalleryApp/GalleryApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 14 plus-16.2/mtouch-cache"
---root-assembly=/Users/mac/Projects/GalleryApp/GalleryApp.iOS/bin/iPhoneSimulator/Debug/GalleryApp.iOS.exe
+"--cache=/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 14 plus-16.2/mtouch-cache"
+--root-assembly=/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.iOS/bin/iPhoneSimulator/Debug/GalleryApp.iOS.exe
 --sdkroot=/Applications/Xcode.app/Contents/Developer
 --targetver=8.0
-"--sim=/Users/mac/Projects/GalleryApp/GalleryApp.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone 14 plus-16.2/GalleryApp.iOS.app"
+"--sim=/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone 14 plus-16.2/GalleryApp.iOS.app"
 --executable=GalleryApp.iOS
 --nolink
 --sdk=16.2
 --aot-options=-O=-float32
 --abi=x86_64
-"--symbollist=/Users/mac/Projects/GalleryApp/GalleryApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 14 plus-16.2/mtouch-symbols.list"
+"--symbollist=/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 14 plus-16.2/mtouch-symbols.list"
 --dsym=no
 --framework=/Users/mac/.nuget/packages/skiasharp.nativeassets.ios/2.88.3/runtimes/ios/native/libSkiaSharp.framework
---reference=/Users/mac/Projects/GalleryApp/GalleryApp/bin/Debug/netstandard2.0/GalleryApp.dll
+--reference=/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/bin/Debug/netstandard2.0/GalleryApp.dll
 --reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 --reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
 --reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
@@ -212,4 +212,4 @@
 --reference=/Users/mac/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 --reference=/Users/mac/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 --reference=/Users/mac/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
---reference=/Users/mac/Projects/GalleryApp/GalleryApp/bin/Debug/netstandard2.0/GalleryApp.dll
+--reference=/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/bin/Debug/netstandard2.0/GalleryApp.dll

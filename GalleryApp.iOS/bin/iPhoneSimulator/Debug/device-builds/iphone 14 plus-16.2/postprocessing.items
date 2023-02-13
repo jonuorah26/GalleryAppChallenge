@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>GalleryApp.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/mac/Projects/GalleryApp/GalleryApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 14 plus-16.2/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 14 plus-16.2/mtouch-symbols.list</SymbolFile>
       <DSymName>GalleryApp.iOS.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/mac/Projects/GalleryApp/GalleryApp.iOS</SourceProjectPath>
+      <SourceProjectPath>/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.iOS</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

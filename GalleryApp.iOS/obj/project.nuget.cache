@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Btpnm0DF6Lh0bNL3zGP+KSfy7zsfpFukd3UFcCKoLbgpSwRrV5RO9vsnrI5UYPyBp0bBy57bEW3+mV713Ibd/A==",
+  "dgSpecHash": "pqJ8XeTe38ItWMLI6LOkFuJRLJYR1IC+gEY3ppFcrPPQUKz+WXHNtw7dtoxPkPfxcxwbl1DXX4IbdyUdWWVk/w==",
   "success": true,
-  "projectFilePath": "/Users/mac/Projects/GalleryApp/GalleryApp.iOS/GalleryApp.iOS.csproj",
+  "projectFilePath": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.iOS/GalleryApp.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/mac/.nuget/packages/skiasharp/2.88.3/skiasharp.2.88.3.nupkg.sha512",
     "/Users/mac/.nuget/packages/skiasharp.nativeassets.ios/2.88.3/skiasharp.nativeassets.ios.2.88.3.nupkg.sha512",

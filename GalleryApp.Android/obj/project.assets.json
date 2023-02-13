@@ -3563,11 +3563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Projects/GalleryApp/GalleryApp.Android/GalleryApp.Android.csproj",
+      "projectUniqueName": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.Android/GalleryApp.Android.csproj",
       "projectName": "GalleryApp.Android",
-      "projectPath": "/Users/mac/Projects/GalleryApp/GalleryApp.Android/GalleryApp.Android.csproj",
+      "projectPath": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.Android/GalleryApp.Android.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Projects/GalleryApp/GalleryApp.Android/obj/",
+      "outputPath": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -3582,8 +3582,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "/Users/mac/Projects/GalleryApp/GalleryApp/GalleryApp.csproj": {
-              "projectPath": "/Users/mac/Projects/GalleryApp/GalleryApp/GalleryApp.csproj"
+            "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/GalleryApp.csproj": {
+              "projectPath": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/GalleryApp.csproj"
             }
           }
         }

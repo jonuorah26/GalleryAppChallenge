@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P8x+JLsc0RZql4uY6NZC2yyqkqUMZdWAkBwivPOPD0sfV8VHTtZ3B9B1k7mZrJFX2MzrelIoJZx4IdqlgpUYHA==",
+  "dgSpecHash": "dzhlEm3tl92I0dkgwU+Ef0+4LWjgIrsZ05CxAt6ILS1mD++dqwSOznK7w8K9/piVvZmS3fBnV9H58/pxj2kSAA==",
   "success": true,
-  "projectFilePath": "/Users/mac/Projects/GalleryApp/GalleryApp.Android/GalleryApp.Android.csproj",
+  "projectFilePath": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.Android/GalleryApp.Android.csproj",
   "expectedPackageFiles": [
     "/Users/mac/.nuget/packages/skiasharp/2.88.3/skiasharp.2.88.3.nupkg.sha512",
     "/Users/mac/.nuget/packages/skiasharp.nativeassets.android/2.88.3/skiasharp.nativeassets.android.2.88.3.nupkg.sha512",

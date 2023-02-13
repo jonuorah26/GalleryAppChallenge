@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Projects/GalleryApp/GalleryApp.iOS/GalleryApp.iOS.csproj": {}
+    "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.iOS/GalleryApp.iOS.csproj": {}
   },
   "projects": {
-    "/Users/mac/Projects/GalleryApp/GalleryApp.iOS/GalleryApp.iOS.csproj": {
+    "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.iOS/GalleryApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Projects/GalleryApp/GalleryApp.iOS/GalleryApp.iOS.csproj",
+        "projectUniqueName": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.iOS/GalleryApp.iOS.csproj",
         "projectName": "GalleryApp.iOS",
-        "projectPath": "/Users/mac/Projects/GalleryApp/GalleryApp.iOS/GalleryApp.iOS.csproj",
+        "projectPath": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.iOS/GalleryApp.iOS.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Projects/GalleryApp/GalleryApp.iOS/obj/",
+        "outputPath": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/mac/Projects/GalleryApp/GalleryApp/GalleryApp.csproj": {
-                "projectPath": "/Users/mac/Projects/GalleryApp/GalleryApp/GalleryApp.csproj"
+              "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/GalleryApp.csproj": {
+                "projectPath": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/GalleryApp.csproj"
               }
             }
           }
@@ -59,14 +59,14 @@
         }
       }
     },
-    "/Users/mac/Projects/GalleryApp/GalleryApp/GalleryApp.csproj": {
+    "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/GalleryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Projects/GalleryApp/GalleryApp/GalleryApp.csproj",
+        "projectUniqueName": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/GalleryApp.csproj",
         "projectName": "GalleryApp",
-        "projectPath": "/Users/mac/Projects/GalleryApp/GalleryApp/GalleryApp.csproj",
+        "projectPath": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/GalleryApp.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Projects/GalleryApp/GalleryApp/obj/",
+        "outputPath": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mac/.config/NuGet/NuGet.Config"

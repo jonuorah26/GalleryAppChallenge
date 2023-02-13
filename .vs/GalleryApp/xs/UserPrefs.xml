@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{33167C04-011D-4154-9F8D-6F28B43EB9B0}|Default">
+  <MonoDevelop.Ide.ItemProperties.GalleryApp.Android PreferredExecutionTarget="Android.8C5X1J6T5" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GalleryApp/GalleryPage.xaml.cs">
+    <Files>
+      <File FileName="GalleryApp/GalleryPage.xaml" Line="1" Column="1" />
+      <File FileName="GalleryApp/GalleryPage.xaml.cs" Line="47" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GalleryApp" expanded="True">
+            <Node name="GalleryApp" expanded="True">
+              <Node name="GalleryPage.xaml" expanded="True">
+                <Node name="GalleryPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

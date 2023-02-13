@@ -12,7 +12,7 @@
       <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
       <CodesignKeychain></CodesignKeychain>
       <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
-      <SourceProjectPath>/Users/mac/Projects/GalleryApp/GalleryApp.iOS</SourceProjectPath>
+      <SourceProjectPath>/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.iOS</SourceProjectPath>
     </_CodesignBundle>
   </ItemGroup>
 </Project>

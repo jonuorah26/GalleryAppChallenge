@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wX3vaZgvFrB0SwP9G12CY6jGrx9E2+zKgGdBhaJahafEuRXsgTwoe7RdkI72TrdcPCOazWWTEx6t7xdk1//jQw==",
+  "dgSpecHash": "0qk2cS9TR9RImWi5pCOHgVv+Ar0JP99qmQg3txkpXWbe07yRBP/oUJyB+re48A4VqGgV4xWHMHtYlPVY3tLhew==",
   "success": true,
-  "projectFilePath": "/Users/mac/Projects/GalleryApp/GalleryApp/GalleryApp.csproj",
+  "projectFilePath": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/GalleryApp.csproj",
   "expectedPackageFiles": [
     "/Users/mac/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

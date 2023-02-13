@@ -955,11 +955,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Projects/GalleryApp/GalleryApp/GalleryApp.csproj",
+      "projectUniqueName": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/GalleryApp.csproj",
       "projectName": "GalleryApp",
-      "projectPath": "/Users/mac/Projects/GalleryApp/GalleryApp/GalleryApp.csproj",
+      "projectPath": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/GalleryApp.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Projects/GalleryApp/GalleryApp/obj/",
+      "outputPath": "/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.config/NuGet/NuGet.Config"

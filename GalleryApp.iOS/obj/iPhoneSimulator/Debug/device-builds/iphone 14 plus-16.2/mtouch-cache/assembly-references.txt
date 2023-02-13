@@ -1,4 +1,4 @@
-/Users/mac/Projects/GalleryApp/GalleryApp.iOS/bin/iPhoneSimulator/Debug/GalleryApp.iOS.exe
+/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp.iOS/bin/iPhoneSimulator/Debug/GalleryApp.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/16.1.1.27/lib/mono/Xamarin.iOS/mscorlib.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/16.1.1.27/lib/mono/Xamarin.iOS/../../64bits/iOS/Xamarin.iOS.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/16.1.1.27/lib/mono/Xamarin.iOS/System.dll
@@ -22,5 +22,5 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/16.1.1.27/lib/mono/Xamarin.iOS/System.Web.Services.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/16.1.1.27/lib/mono/Xamarin.iOS/System.Xml.Linq.dll
 /Users/mac/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
-/Users/mac/Projects/GalleryApp/GalleryApp/bin/Debug/netstandard2.0/GalleryApp.dll
+/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/bin/Debug/netstandard2.0/GalleryApp.dll
 /Users/mac/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
