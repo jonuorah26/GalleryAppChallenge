@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="GalleryApp.iOS.app/GalleryApp.iOS">
+      <BCSymbolMapName>GalleryApp.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>GalleryApp.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/mac/Projects/GalleryApp/GalleryApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 14 plus-16.2/mtouch-symbols.list</SymbolFile>
+      <DSymName>GalleryApp.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/mac/Projects/GalleryApp/GalleryApp.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

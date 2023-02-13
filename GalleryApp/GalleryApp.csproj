@@ -1,0 +1,64 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
+    <PackageReference Include="Xamarin.FFImageLoading.Forms" Version="2.4.11.982" />
+    <PackageReference Include="SkiaSharp" Version="2.88.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Xamarin.FFImageLoading.Forms" />
+    <None Remove="Images\" />
+    <None Remove="SkiaSharp" />
+    <None Remove="Images\11 year olds tweents.jpg" />
+    <None Remove="Images\20191229_120351.jpg" />
+    <None Remove="Images\20200607_172218-2.jpg" />
+    <None Remove="Images\20200808_195811.jpg" />
+    <None Remove="Images\20200919_142340.jpg" />
+    <None Remove="Images\Children-Standing-Desks.jpeg" />
+    <None Remove="Images\DSC_0765.jpg" />
+    <None Remove="Images\good-faces-xmSWVeGEnJw-unsplash.jpg" />
+    <None Remove="Images\IMG_1218.jpg" />
+    <None Remove="Images\IMG_7355_Original.jpg" />
+    <None Remove="Images\IMG_8298.jpg" />
+    <None Remove="Images\PlaylistCareerReadiness.png" />
+    <None Remove="Images\school outside of Durban.jpg" />
+    <None Remove="Images\24-36in-min-min.jpg" />
+    <None Remove="Images\nathan-dumlao-71u2fOofI-U-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\11 year olds tweents.jpg" />
+    <EmbeddedResource Include="Images\20191229_120351.jpg" />
+    <EmbeddedResource Include="Images\20200607_172218-2.jpg" />
+    <EmbeddedResource Include="Images\20200808_195811.jpg" />
+    <EmbeddedResource Include="Images\20200919_142340.jpg" />
+    <EmbeddedResource Include="Images\Children-Standing-Desks.jpeg" />
+    <EmbeddedResource Include="Images\DSC_0765.jpg" />
+    <EmbeddedResource Include="Images\good-faces-xmSWVeGEnJw-unsplash.jpg" />
+    <EmbeddedResource Include="Images\IMG_1218.jpg" />
+    <EmbeddedResource Include="Images\IMG_7355_Original.jpg" />
+    <EmbeddedResource Include="Images\IMG_8298.jpg" />
+    <EmbeddedResource Include="Images\PlaylistCareerReadiness.png" />
+    <EmbeddedResource Include="Images\school outside of Durban.jpg" />
+    <EmbeddedResource Include="Images\24-36in-min-min.jpg" />
+    <EmbeddedResource Include="Images\nathan-dumlao-71u2fOofI-U-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="GalleryPage.xaml.cs">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </Compile>
+  </ItemGroup>
+</Project>

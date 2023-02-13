@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="GalleryApp.GalleryPage"
+    Title="Gallery">
+    <ContentPage.Content>
+        <StackLayout>
+        <StackLayout IsVisible="{Binding isIOS}">
+            <!--<Label Text="This is for iOS!"/>-->
+            <ScrollView>
+                <FlexLayout x:Name="galleryLayout" BindableLayout.ItemsSource="{Binding GalleryImgs}" Wrap="Wrap" AlignItems="Center" Padding="0,20,0,20">
+                    <BindableLayout.ItemTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding src}" WidthRequest="{Binding width}" Scale="0.95">
+                                <Image.GestureRecognizers>
+                                        <TapGestureRecognizer
+                                                Tapped="OnImageTapped"
+                                                NumberOfTapsRequired="1" />
+                                  </Image.GestureRecognizers>
+                            </Image>
+                        </DataTemplate>
+                    </BindableLayout.ItemTemplate>
+                </FlexLayout>
+            </ScrollView>
+        </StackLayout>
+        
+
+        
+        <StackLayout IsVisible="{Binding isAndroid}">
+            <!--<Label Text="This is for Android!"/>-->
+            <CollectionView ItemsSource="{Binding GalleryImgs}">
+                <CollectionView.ItemsLayout>
+                   <GridItemsLayout Orientation="Vertical"
+                                    Span="3" />
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding src}" Scale="0.95">
+                                    <Image.GestureRecognizers>
+                                            <TapGestureRecognizer
+                                                    Tapped="OnImageTapped"
+                                                    NumberOfTapsRequired="1" />
+                                      </Image.GestureRecognizers>
+                                </Image>
+                            </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

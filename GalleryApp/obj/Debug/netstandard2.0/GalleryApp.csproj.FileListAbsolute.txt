@@ -1,0 +1,16 @@
+/Users/mac/Projects/GalleryApp/GalleryApp/bin/Debug/netstandard2.0/GalleryApp.deps.json
+/Users/mac/Projects/GalleryApp/GalleryApp/bin/Debug/netstandard2.0/GalleryApp.dll
+/Users/mac/Projects/GalleryApp/GalleryApp/bin/Debug/netstandard2.0/ref/GalleryApp.dll
+/Users/mac/Projects/GalleryApp/GalleryApp/bin/Debug/netstandard2.0/GalleryApp.pdb
+/Users/mac/Projects/GalleryApp/GalleryApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mac/Projects/GalleryApp/GalleryApp/obj/Debug/netstandard2.0/FullPicturePage.xaml.g.cs
+/Users/mac/Projects/GalleryApp/GalleryApp/obj/Debug/netstandard2.0/GalleryPage.xaml.g.cs
+/Users/mac/Projects/GalleryApp/GalleryApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mac/Projects/GalleryApp/GalleryApp/obj/Debug/netstandard2.0/GalleryApp.AssemblyInfoInputs.cache
+/Users/mac/Projects/GalleryApp/GalleryApp/obj/Debug/netstandard2.0/GalleryApp.AssemblyInfo.cs
+/Users/mac/Projects/GalleryApp/GalleryApp/obj/Debug/netstandard2.0/GalleryApp.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/GalleryApp/GalleryApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mac/Projects/GalleryApp/GalleryApp/obj/Debug/netstandard2.0/GalleryApp.dll
+/Users/mac/Projects/GalleryApp/GalleryApp/obj/Debug/netstandard2.0/ref/GalleryApp.dll
+/Users/mac/Projects/GalleryApp/GalleryApp/obj/Debug/netstandard2.0/GalleryApp.pdb
+/Users/mac/Projects/GalleryApp/GalleryApp/obj/Debug/netstandard2.0/GalleryApp.csproj.AssemblyReference.cache
