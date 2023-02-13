@@ -74,7 +74,7 @@ namespace GalleryApp
                     {
                         imgSrc = ImageSource.FromResource(resource);
                         GalleryImg newImg = new GalleryImg(imgSrc);
-                        newImg.width = (int)this.Width / 3;
+                        newImg.width = (int)(this.Width-10) / 3;
                         string fileName = resource;
                         for (int i = 0; i < 2; ++i)
                         {

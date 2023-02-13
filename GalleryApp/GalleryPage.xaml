@@ -9,7 +9,7 @@
         <StackLayout IsVisible="{Binding isIOS}">
             <!--<Label Text="This is for iOS!"/>-->
             <ScrollView>
-                <FlexLayout x:Name="galleryLayout" BindableLayout.ItemsSource="{Binding GalleryImgs}" Wrap="Wrap" AlignItems="Center" Padding="0,20,0,20">
+                <FlexLayout x:Name="galleryLayout" BindableLayout.ItemsSource="{Binding GalleryImgs}" Wrap="Wrap" AlignItems="Center" Margin="5,5,5,5">
                     <BindableLayout.ItemTemplate>
                         <DataTemplate>
                             <Image Source="{Binding src}" WidthRequest="{Binding width}" Scale="0.95">
@@ -29,7 +29,7 @@
         
         <StackLayout IsVisible="{Binding isAndroid}">
             <!--<Label Text="This is for Android!"/>-->
-            <CollectionView ItemsSource="{Binding GalleryImgs}">
+            <CollectionView ItemsSource="{Binding GalleryImgs}" Margin="5,5,5,5">
                 <CollectionView.ItemsLayout>
                    <GridItemsLayout Orientation="Vertical"
                                     Span="3" />

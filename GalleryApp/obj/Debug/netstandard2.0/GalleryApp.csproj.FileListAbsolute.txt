@@ -29,3 +29,4 @@
 /Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/obj/Debug/netstandard2.0/GalleryApp.dll
 /Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/obj/Debug/netstandard2.0/ref/GalleryApp.dll
 /Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/obj/Debug/netstandard2.0/GalleryApp.pdb
+/Users/mac/Documents/GitHub/GalleryAppChallenge/GalleryApp/obj/Debug/netstandard2.0/GalleryApp.csproj.AssemblyReference.cache
